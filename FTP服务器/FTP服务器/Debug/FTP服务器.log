@@ -1,0 +1,4 @@
+﻿  FTP服务器.cpp
+C:\Users\78136\Desktop\大学\计算机网络实验\实验二\code\FTP服务器\FTP服务器\FTP服务器.cpp(98,22): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+C:\Users\78136\Desktop\大学\计算机网络实验\实验二\code\FTP服务器\FTP服务器\FTP服务器.cpp(118,25): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+  FTP服务器.vcxproj -> C:\Users\78136\Desktop\大学\计算机网络实验\实验二\code\FTP服务器\Debug\FTP服务器.exe
